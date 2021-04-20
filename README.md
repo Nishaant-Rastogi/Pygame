@@ -1,3 +1,4 @@
+![Screenshot from 2021-04-20 01-33-43](https://user-images.githubusercontent.com/78685211/115363595-73bedb00-a177-11eb-982f-fc105295a634.png)
 ![Screenshot from 2021-04-20 01-32-20](https://user-images.githubusercontent.com/78685211/115363345-3a866b00-a177-11eb-96ac-f0944f608958.png)
 # Pygame
 My first try at making a simple 2D game using PyGame module of Python
